@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lock</string>
+    <string name="label">Lock</string>
+    <string name="description">Lock screen by a single click</string>
+</resources>
